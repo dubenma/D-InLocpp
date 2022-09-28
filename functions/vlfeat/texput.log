@@ -1,0 +1,17 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=mex 2019.4.21)  5 OCT 2019 12:08
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**CC=gcc LD=gcc CFLAGS= -arch x86_64 -fno-common -fexceptions  LDFLAGS= -arch x
+86_64 -Wl,-syslibroot,/Applications/Xcode.app/Contents/Developer/Platforms/MacO
+SX.platform/Developer/SDKs/MacOSX10.15.sdk -mmacosx-version-min=10.4 -bundle -W
+l,-exported_symbols_list,/usr/local/texlive/2018/bin/x86_64-darwin/pdftex/exter
+n/lib/maci64/mexFunction.map   -DVL_DISABLE_OPENMP -I. -Itoolbox ./toolbox/sift
+/vl_covdet.c -Ltoolbox/mex/mexmaci64 -lvl -lm -outdir toolbox/mex/mexmaci64/
+
+! Emergency stop.
+<*> CC=gcc 
+           LD=gcc CFLAGS= -arch x86_64 -fno-common -fexceptions  LDFLAGS= -a...
+End of file on the terminal!
+
+No pages of output.

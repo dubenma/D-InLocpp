@@ -1,0 +1,2 @@
+python3 eval.py --score_threshold=0.05 --trained_model=data/yolact_base_54_800000.pth --images=/home/Documents/dataset/query_all:data/eval_results/broca_real --output_txt=data/eval_results/obj2clss.txt
+

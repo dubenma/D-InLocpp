@@ -1,0 +1,2 @@
+## Limitations
+* You may get an out of memory error for large sensor sizes, typically for those that wouldn't fit a laptop's screen. Note: hack with lowering the sensor size and then rescaling is not going to work, without also changing the focal length.
